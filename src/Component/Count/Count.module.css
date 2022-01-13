@@ -1,0 +1,34 @@
+.limit{
+    font-size: 100px;
+    color: rgba(255, 255, 255, 0.55);
+    color: #4545bd;
+
+    -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    -moz-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    width: 50%;
+    padding: 20px;
+    margin: 10px auto 30px auto;
+    background-color: #b29a3c;
+}
+
+.def{
+    color: #4545bd;
+    font-size: 100px;
+    -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    -moz-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    width: 50%;
+    padding: 20px;
+    margin: 10px auto 30px auto;
+    background-color: #faf1f1;
+}
+h2{
+    margin: 0;
+    background-color: #565656;
+    color: transparent;
+    text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
+    -webkit-background-clip: text;
+    /*-moz-background-clip: text;*/
+    /*background-clip: text;*/
+}

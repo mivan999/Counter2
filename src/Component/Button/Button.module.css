@@ -1,0 +1,24 @@
+.button {
+    higth:140px;
+    width: 300px;
+    margin-bottom: 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: .5em 2em;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: #FDBE33 #000 #D77206;
+    border-radius: 6px;
+    background: linear-gradient(#F3AE0F, #E38916) #E38916;
+    transition: 0.2s;
+}
+button:disabled{
+    /*background: linear-gradient(#51739b, #4071a9) #0b2d83;*/
+    background: linear-gradient(#f59500, #f5ae00) #f59500;
+    opacity: 0.3;
+}
+
+/*.button:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }*/
+.button:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
